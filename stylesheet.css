@@ -32,4 +32,8 @@ font-family: Alvi Nastaleeq;
      
     body{
         background-image: url(bk.jpeg);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
     }
